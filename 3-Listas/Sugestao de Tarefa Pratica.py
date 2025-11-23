@@ -1,0 +1,1 @@
+#Criar um programa que receba nomes de alunos e armazene em uma lista, permitindo exibir todos os nomes ao final.

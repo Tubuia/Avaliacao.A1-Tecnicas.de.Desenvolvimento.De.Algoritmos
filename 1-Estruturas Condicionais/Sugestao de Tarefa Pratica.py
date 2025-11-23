@@ -1,0 +1,1 @@
+#Criar um programa em Python que simule um sistema de verificação de idade para entrada em eventos.

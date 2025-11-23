@@ -1,0 +1,1 @@
+#Desenvolver um contador de 1 a 100 com for, exibindo apenas números pares.

@@ -1,0 +1,1 @@
+#Desenvolver um sistema simples de cadastro de produtos com nome e preço, armazenando em dicionário.
